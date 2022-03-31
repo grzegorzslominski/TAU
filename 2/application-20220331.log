@@ -1,0 +1,14 @@
+2022-03-31 22:33:13.003 [main] INFO  Test.SeleniumTests - Strona główna zalando
+2022-03-31 22:33:13.873 [main] INFO  Test.SeleniumTests - Buty i odzież online na Zalando. Moda | darmowa* dostawa i zwrot
+2022-03-31 22:33:13.904 [main] INFO  Test.SeleniumTests - Pomoc i kontakt
+2022-03-31 22:33:14.710 [main] INFO  Test.SeleniumTests - Zakładka Pomoc i kontakt
+2022-03-31 22:33:14.743 [main] INFO  Test.SeleniumTests - Nasi partnerzy logistyczni
+2022-03-31 22:33:15.419 [main] INFO  Test.SeleniumTests - Zakładka partnerzy logistyczni
+2022-03-31 22:33:15.969 [main] INFO  Test.SeleniumTests - Strona partnera DPD
+2022-03-31 22:33:22.632 [main] INFO  Test.SeleniumTests - Strona główna WolframAlpha
+2022-03-31 22:33:24.155 [main] INFO  Test.SeleniumTests - Przejście do strony logowania
+2022-03-31 22:33:26.821 [main] INFO  Test.SeleniumTests - Wprowadzenie wartości dla pola email
+2022-03-31 22:33:29.678 [main] INFO  Test.SeleniumTests - Wprowadzenie wartości dla pola hasło
+2022-03-31 22:33:31.521 [main] INFO  Test.SeleniumTests - Przejście do zakładki Elementary Math
+2022-03-31 22:33:33.779 [main] INFO  Test.SeleniumTests - Obliczenie wyniku dla działania 4^10
+2022-03-31 22:33:35.226 [main] INFO  Test.SeleniumTests - Wynik: 1048576
